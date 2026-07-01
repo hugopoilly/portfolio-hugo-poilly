@@ -1,5 +1,4 @@
-Portfolio Hugo Poilly - version compacte — version multi-pages
-
+Portfolio Hugo Poilly
 Fichiers principaux :
 - index.html : page d'accueil
 - apropos.html : profil et formation
@@ -8,4 +7,4 @@ Fichiers principaux :
 - contact.html : contact
 - style.css : styles du site
 - assets/photo-hugo.png : photo professionnelle
-- assets/CV_Hugo_POILLY_Stage_Informatique_2027.pdf : CV téléchargeable
+- assets/CV_Hugo_POILLY.pdf : CV téléchargeable
