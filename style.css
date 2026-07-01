@@ -231,6 +231,7 @@ h1 span { color: var(--blue); }
   outline-offset: 10px;
   box-shadow: 0 0 0 1px rgba(255,255,255,0.12), 0 18px 44px rgba(0, 0, 0, 0.22);
   background: #eef0f3;
+  filter: saturate(1.10) contrast(1.05) brightness(0.98);
 }
 
 .page-title {
